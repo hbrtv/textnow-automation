@@ -64,7 +64,7 @@ result = runCaptcha(tempEmail)
 
 print (result)
 
-defaultPwd = "textpassword12345"
+defaultPwd = "Password12345now"
 
 filepath = "./initalParam.txt"
 
